@@ -14,8 +14,8 @@
 
 ### Скріншоти  
 [Головне меню](Assets/Screenshots/MainMenu.png)
-[Геймплей](Assets/Screenshots/InitialState.png)
-[Геймплей](Assets/Screenshots/PartiallyCompletedState.png)
+[Початок геймплею](Assets/Screenshots/InitialState.png)
+[Частково закінчена гра](Assets/Screenshots/PartiallyCompletedState.png)
 
 
 ### Як запустити ?
