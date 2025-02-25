@@ -781,11 +781,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 0c5ac256-0665-4cd3-a1fc-41e96ee07e5c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: barleyBreak
+  organizationId: davydenko2003ar
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
