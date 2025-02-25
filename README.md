@@ -13,9 +13,9 @@
  Перевірка правильного розв’язку  
 
 ### Скріншоти  
-[Головне меню](Screenshots/MainMenu.png)
-[Геймплей](Screenshots/InitialState.png)
-[Геймплей](Screenshots/PartiallyCompletedState.png)
+[Головне меню](Assets/Screenshots/MainMenu.png)
+[Геймплей](Assets/Screenshots/InitialState.png)
+[Геймплей](Assets/Screenshots/PartiallyCompletedState.png)
 
 
 ### Як запустити ?
